@@ -19,3 +19,4 @@ A web application to manage olympic-like games front and back ends
 
 ## 3rd party Tools
 - DB modeling : Vertabelo.com
+- UML Object Model : https://repository.genmymodel.com/YoannLeGoff/Olympics
